@@ -103,14 +103,6 @@ The application is fully responsive and works on:
 - Color palette extraction may not work for all image types
 - Some EXIF data might not be preserved during upload
 
-## 📝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details
@@ -119,11 +111,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For support, email support@pixelnest.com or open an issue in the repository.
 
-## 📞 Contact
-
-- **Project Lead**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: https://github.com/yourusername
 
 ## 🙏 Acknowledgments
 
